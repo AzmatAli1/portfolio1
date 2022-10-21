@@ -56,3 +56,35 @@ h4 {
     text-align: center;
 
 }
+
+.Development {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+.corona {
+    color: orange;
+}
+
+footer {
+    background-color: black;
+    height: 300px;
+}
+
+footer h1 {
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+.page {
+    height: 1000px;
+    width: 100%;
+    background-color: cyan;
+}
